@@ -12,7 +12,7 @@ Date,ID,Name,Region,Rating,Product,Quantity,Price Per Unit,Total Value,
 2022-03-31 00:00:00,15,Nick Fury,West,Poor,Eye Patch,35,34.29,1200.15,"3. Formatting Numeric Columns: Ensured ""Quantity"" and ""Price Per Unit"" were correctly formatted for calculations."
 2022-05-31 00:00:00,17,Peggy Carter,East,Good,Vintage Pistol,40,35,1400,
 2022-06-30 00:00:00,18,Howard Stark,North,Excelent,Arc Reactor,45,33.33,1499.85,
-2022-07-31 00:00:00,19,Hank Pym,West,Poor,Ant-Man Suit,50,32,1600,4. Total Value Calculation: Added a new column (Total Value = Quantity × Price Per Unit).
+2022-07-31 00:00:00,19,Hank Pym,West,Poor,Ant-Man Suit,50,32,1600,4. Total Value Calculation: Added a new column (Total Value = Quantity Ã— Price Per Unit).
 2022-08-31 00:00:00,20,Janet van Dyne,South,Average,Wasp's Wings,55,30.91,1700.05,
 2022-09-30 00:00:00,21,Kurt Busiek,East,Good,Comic Book,60,30,1800,
 2022-11-30 00:00:00,23,Roger Stern,West,Poor,Notepads,65,30.77,2000.05,
